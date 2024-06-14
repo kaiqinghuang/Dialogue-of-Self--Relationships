@@ -22,7 +22,7 @@
     "com.unity.visualeffectgraph": "14.0.9",
     "com.unity.xr.arcore": "5.1.1",
     "com.unity.xr.arfoundation": "5.1.1",
-    "com.unity.xr.arkit": "5.1.1",
+    "com.unity.xr.arkit": "5.1.4",
     "com.unity.xr.legacyinputhelpers": "2.1.10",
     "com.unity.xr.openxr": "1.9.1",
     "io.holokit.unity-sdk": "https://github.com/holokit/holokit-unity-sdk.git",

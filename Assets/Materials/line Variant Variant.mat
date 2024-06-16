@@ -29,7 +29,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _emissionStrength: 1
+    - _emissionStrength: 1.2
     - _gap_float: 0.1312
     - _timeSpeed: 0.3
     - _timeSpeed2: 5

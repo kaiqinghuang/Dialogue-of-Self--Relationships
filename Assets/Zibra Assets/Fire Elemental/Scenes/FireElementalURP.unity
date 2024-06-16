@@ -466,7 +466,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5531154610627573052, guid: ef7f554d2c1ce2a40ba966cbe6dcaa57, type: 3}
       propertyPath: SmokeDensity
-      value: 35
+      value: 254
       objectReference: {fileID: 0}
     - target: {fileID: 5531154610627573052, guid: ef7f554d2c1ce2a40ba966cbe6dcaa57, type: 3}
       propertyPath: ParticleLifetime
@@ -496,6 +496,10 @@ PrefabInstance:
       propertyPath: MainLight
       value: 
       objectReference: {fileID: 292099164}
+    - target: {fileID: 6519789119289425042, guid: ef7f554d2c1ce2a40ba966cbe6dcaa57, type: 3}
+      propertyPath: GridResolution
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: 6519789119289425042, guid: ef7f554d2c1ce2a40ba966cbe6dcaa57, type: 3}
       propertyPath: CurrentSimulationMode
       value: 0

@@ -38,6 +38,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/gARment/Scene/gARment.unity
     guid: 842a3f4bb1709d747966b529ddddfeb8
+  - enabled: 0
+    path: Assets/Zibra Assets/Fire Elemental/Scenes/FireElementalURP.unity
+    guid: 8f9010fcf8b3cb345a2f09d7ac305e2c
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0eb36a35e1ef1cb4fae59380454bdd83, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: c7e362ba310afd24e8fde9976aac5180, type: 2}

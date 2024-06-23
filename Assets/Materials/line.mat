@@ -30,7 +30,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _QueueControl: 0
-    - _emissionStrength: 1
+    - _emissionStrength: 1.67
     - _gap_float: 1
     - _timeSpeed: 0.2
     - _timeSpeed2: 5

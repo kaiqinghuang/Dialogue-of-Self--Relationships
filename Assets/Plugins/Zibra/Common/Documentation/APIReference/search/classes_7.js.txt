@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['neuralsdf_0',['NeuralSDF',['../a00702.html',1,'com::zibra::common::SDFObjects']]]
-];

@@ -43,7 +43,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _QueueControl: 0
-    - _emissionStrength: 1.17
+    - _emissionStrength: 0.72
     - _gap_float: 1
     - _timeSpeed: 0.2
     - _timeSpeed2: 5

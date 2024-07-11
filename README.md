@@ -39,3 +39,7 @@ Choreographing along three main lines: "emotion," "motivation," and "time."
 <img width="1376" alt="Screenshot 2024-07-11 at 20 40 39" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/769e03ee-56f5-4dff-8299-a873475f20cb">
 
 Based on a constant frame within the venue, the relationship and dynamics between real people and virtual people are established, connected through AR visual lines.
+
+### AR production
+
+#### Spatial positioning

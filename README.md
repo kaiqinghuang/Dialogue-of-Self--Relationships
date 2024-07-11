@@ -47,20 +47,25 @@ Based on a constant frame within the venue, the relationship and dynamics betwee
 
 In the preliminary stage, Immersal spatial scanning was used to test the stability of the equipment and the feasibility in dim environments. It was found that Immersal could not perform well in recognizing the environment under low light conditions.
 
-<img width="600" alt="Screenshot 2024-07-11 at 20 59 35" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/ae0a9f54-c1fe-4059-bf33-5f1fd9f0bb76">
-<img width="400" alt="Screenshot 2024-07-11 at 20 59 35" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/c4432ffd-ea4c-4a9e-a8da-ae5eb6b7977d">
+<img width="533" alt="Screenshot 2024-07-11 at 20 59 35" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/ae0a9f54-c1fe-4059-bf33-5f1fd9f0bb76">
+<img width="467" alt="Screenshot 2024-07-11 at 20 59 35" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/c4432ffd-ea4c-4a9e-a8da-ae5eb6b7977d">
 
 To achieve optimal stage performance, the AR positioning will use the origin-based activation method.
 
-<img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/e7ade38c-8542-42e3-9537-317bd23bdbbd" style=" width:30%;">
+<img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/e7ade38c-8542-42e3-9537-317bd23bdbbd" style=" width:20%;">
 
 #### Motion capture for the dance of virtual people
 
 Depthkit technology is used for visual solutions, while Xsens is used for functional implementation solutions.
 
+After dynamic video capture, post-processing software such as After Effects (AE) needs to be used before importing into Unity for the next stage of construction.
+
+![屏幕截图 2024-07-03 153030](https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/5a92a803-dde3-4a11-9040-f3c56c6814c5)
+
 <img width="1300" alt="Screenshot 2024-07-11 at 21 31 45" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/2d89e21d-4ea7-447b-b30a-d53b019cd5c5">
 
 
+Based on the animation captured with Depthkit technology, a second capture using Xsens motion capture technology is required. It is essential to ensure that the movements in both captures are consistent. After Xsens motion capture, all skeletal information of the dancer's body in motion can be obtained in Unity, enabling the realization of various functional effects.
 
 
 

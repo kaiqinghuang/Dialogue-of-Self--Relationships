@@ -43,3 +43,20 @@ Based on a constant frame within the venue, the relationship and dynamics betwee
 ### AR production
 
 #### Spatial positioning
+
+
+In the preliminary stage, Immersal spatial scanning was used to test the stability of the equipment and the feasibility in dim environments. It was found that Immersal could not perform well in recognizing the environment under low light conditions.
+
+<img width="600" alt="Screenshot 2024-07-11 at 20 59 35" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/ae0a9f54-c1fe-4059-bf33-5f1fd9f0bb76">
+<img width="400" alt="Screenshot 2024-07-11 at 20 59 35" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/c4432ffd-ea4c-4a9e-a8da-ae5eb6b7977d">
+
+To achieve optimal stage performance, the AR positioning will use the origin-based activation method.
+
+<img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/e7ade38c-8542-42e3-9537-317bd23bdbbd" style=" width:30%;">
+
+#### 
+
+
+
+
+

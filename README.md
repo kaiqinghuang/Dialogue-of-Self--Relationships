@@ -24,3 +24,8 @@ Participants enter the performance reality holding their mobile phones or wearin
 
    <img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/2b7fd90b-06c6-4bcb-9906-2cffce7c7134" style="width:50%;"><img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/89501b99-ae82-4228-b6f6-e42630410876" style="width:50%;">
 
+Both the live coder and participants, after putting on AR enhancement devices, can create sound effects in real-time based on the actions of the "two performers," making them participants in this reality as well.
+
+![7月2日(6)](https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/ad6387df-b9e4-43ff-8adf-ac21c74d243b)
+
+

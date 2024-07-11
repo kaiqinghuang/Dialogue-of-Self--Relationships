@@ -28,4 +28,4 @@ Both the live coder and participants, after putting on AR enhancement devices, c
 
 ![7月2日(6)](https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/ad6387df-b9e4-43ff-8adf-ac21c74d243b)
 
-
+## How does it work

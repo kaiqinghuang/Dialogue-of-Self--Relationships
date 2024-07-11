@@ -29,3 +29,13 @@ Both the live coder and participants, after putting on AR enhancement devices, c
 ![7月2日(6)](https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/ad6387df-b9e4-43ff-8adf-ac21c74d243b)
 
 ## How does it work
+
+In this project, there are three main components: choreography, AR production, and music production. These three components progress simultaneously and intertwine with each other.
+
+### choreography
+
+Choreographing along three main lines: "emotion," "motivation," and "time."
+
+<img width="1376" alt="Screenshot 2024-07-11 at 20 40 39" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/769e03ee-56f5-4dff-8299-a873475f20cb">
+
+Based on a constant frame within the venue, the relationship and dynamics between real people and virtual people are established, connected through AR visual lines.

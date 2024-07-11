@@ -22,4 +22,5 @@ The performance offers a new reality in which participants are given the opportu
 
 Participants enter the performance reality holding their mobile phones or wearing AR enhancement devices.
 
-<img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/2b7fd90b-06c6-4bcb-9906-2cffce7c7134" style="width:50%;"><img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/89501b99-ae82-4228-b6f6-e42630410876" style="width:50%;">
+   <img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/2b7fd90b-06c6-4bcb-9906-2cffce7c7134" style="width:50%;"><img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/89501b99-ae82-4228-b6f6-e42630410876" style="width:50%;">
+

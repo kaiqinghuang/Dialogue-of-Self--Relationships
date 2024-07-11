@@ -22,7 +22,7 @@ The performance offers a new reality in which participants are given the opportu
 
 Participants enter the performance reality holding their mobile phones or wearing AR enhancement devices.
 
-   <img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/2b7fd90b-06c6-4bcb-9906-2cffce7c7134" style="width:50%;"><img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/89501b99-ae82-4228-b6f6-e42630410876" style="width:50%;">
+   <img width="1449" alt="Screenshot 2024-07-11 at 21 34 08" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/0e517ae0-223d-458a-9bf8-aadac88c92de">
 
 Both the live coder and participants, after putting on AR enhancement devices, can create sound effects in real-time based on the actions of the "two performers," making them participants in this reality as well.
 
@@ -54,7 +54,11 @@ To achieve optimal stage performance, the AR positioning will use the origin-bas
 
 <img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/e7ade38c-8542-42e3-9537-317bd23bdbbd" style=" width:30%;">
 
-#### 
+#### Motion capture for the dance of virtual people
+
+Depthkit technology is used for visual solutions, while Xsens is used for functional implementation solutions.
+
+<img width="1300" alt="Screenshot 2024-07-11 at 21 31 45" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/2d89e21d-4ea7-447b-b30a-d53b019cd5c5">
 
 
 

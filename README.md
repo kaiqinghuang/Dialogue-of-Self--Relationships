@@ -1,0 +1,1 @@
+Dialogue of Self-Relationships<img width="1457" alt="Screenshot 2024-07-09 at 21 50 54" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/ed06479c-f376-41c9-9629-1b620ff37e76">

@@ -67,5 +67,22 @@ After dynamic video capture, post-processing software such as After Effects (AE)
 
 Based on the animation captured with Depthkit technology, a second capture using Xsens motion capture technology is required. It is essential to ensure that the movements in both captures are consistent. After Xsens motion capture, all skeletal information of the dancer's body in motion can be obtained in Unity, enabling the realization of various functional effects.
 
+<img width="1399" alt="Screenshot 2024-07-12 at 11 00 52" src="https://github.com/user-attachments/assets/86c43ac8-6af8-4324-b2e3-60c8f444865d">
+
+<img width="1080" alt="Screenshot 2024-06-25 at 00 32 16" src="https://github.com/user-attachments/assets/3dff4179-aaee-4f4f-9e8b-1bdee05f11f7">
+
+#### visual effect and functional realization
+
+Scene and wireframe
+
+<img width="1088" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/4bfd8473-ce2b-4424-966b-01c3c467d685">
+
+Special effects and functions
+
+<img width="1299" alt="Screenshot 2024-07-12 at 11 29 22" src="https://github.com/user-attachments/assets/5ef6e072-5d65-4051-9f0b-63d965665dbe">
+
+<img width="1041" alt="Screenshot 2024-07-12 at 11 38 56" src="https://github.com/user-attachments/assets/2d7382f6-0371-44e0-9c55-b774e4ce20e6">
+
+
 
 

@@ -32,6 +32,8 @@ Both the live coder and participants, after putting on AR enhancement devices, c
 
 In this project, there are three main components: choreography, AR production, and music production. These three components progress simultaneously and intertwine with each other.
 
+Additionally, the project is developed based on the HoloKit SDK, utilizing its Stereoscopic Rendering and Hand Tracking capabilities.
+
 ### choreography
 
 Choreographing along three main lines: "emotion," "motivation," and "time."
@@ -95,5 +97,13 @@ Create experimental music, enhancing details and improving the synchronization q
 
 <img width="1240" alt="Screenshot 2024-07-12 at 11 51 47" src="https://github.com/user-attachments/assets/dcf5adc9-605d-4bef-a8e7-c465f0ed088a">
 
+## Requirements
 
+This project aims to build an app runs on iOS device.
+
+1.Unity 2022.3.16f1
+
+2.Xcode 15.2
+
+3.iPhone with lidar capability
 

@@ -75,14 +75,23 @@ Based on the animation captured with Depthkit technology, a second capture using
 
 Scene and wireframe
 
+First, create a curve model in Blender and import it into Unity. Then, use Shader Graph to create a dynamic flowing effect.
+
 <img width="1088" alt="Screenshot 2024-07-12 at 11 17 35" src="https://github.com/user-attachments/assets/4bfd8473-ce2b-4424-966b-01c3c467d685">
 
 Special effects and functions
+
+Create a VFX linear effect, then bind the start and end points of the line to the hands of the real people captured by Xsens and the virtual people captured by Depthkit, respectively.
 
 <img width="1299" alt="Screenshot 2024-07-12 at 11 29 22" src="https://github.com/user-attachments/assets/5ef6e072-5d65-4051-9f0b-63d965665dbe">
 
 <img width="1041" alt="Screenshot 2024-07-12 at 11 38 56" src="https://github.com/user-attachments/assets/2d7382f6-0371-44e0-9c55-b774e4ce20e6">
 
+#### music production
+
+Create experimental music, enhancing details and improving the synchronization quality between sound and visuals. After wearing augmented reality devices, live coders and participants can create sound effects in real-time using Max based on the movements of the "two performers," becoming participants in this reality.
+
+<img width="1240" alt="Screenshot 2024-07-12 at 11 51 47" src="https://github.com/user-attachments/assets/dcf5adc9-605d-4bef-a8e7-c465f0ed088a">
 
 
 

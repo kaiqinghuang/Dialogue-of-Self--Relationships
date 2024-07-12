@@ -24,7 +24,9 @@ The performance offers a new reality in which participants are given the opportu
 
 Participants enter the performance reality holding their mobile phones or wearing AR enhancement devices.
 
-   <img width="1449" alt="Screenshot 2024-07-11 at 21 34 08" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/0e517ae0-223d-458a-9bf8-aadac88c92de">
+<img width="1449" alt="Screenshot 2024-07-11 at 21 34 08" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/0e517ae0-223d-458a-9bf8-aadac88c92de">
+
+<img width="1080" alt="Screenshot 2024-07-12 at 12 37 38" src="https://github.com/user-attachments/assets/b2df9a57-7c07-4e8e-a7a9-3fb613f1b719">
 
 Both the live coder and participants, after putting on AR enhancement devices, can create sound effects in real-time based on the actions of the "two performers," making them participants in this reality as well.
 
@@ -56,7 +58,7 @@ In the preliminary stage, Immersal spatial scanning was used to test the stabili
 
 To achieve optimal stage performance, the AR positioning will use the origin-based activation method.
 
-<img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/e7ade38c-8542-42e3-9537-317bd23bdbbd" style=" width:20%;">
+<img src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/e7ade38c-8542-42e3-9537-317bd23bdbbd" style=" width:25%;">
 
 #### Motion capture for the dance of virtual people
 

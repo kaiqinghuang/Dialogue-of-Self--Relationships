@@ -85,6 +85,8 @@ Create a VFX linear effect, then bind the start and end points of the line to th
 
 <img width="1299" alt="Screenshot 2024-07-12 at 11 29 22" src="https://github.com/user-attachments/assets/5ef6e072-5d65-4051-9f0b-63d965665dbe">
 
+Use the spine bone of the virtual people as the attraction point for the magnet component in the deform plugin, enabling real-time attraction of scene content as the virtual people move.
+
 <img width="1041" alt="Screenshot 2024-07-12 at 11 38 56" src="https://github.com/user-attachments/assets/2d7382f6-0371-44e0-9c55-b774e4ce20e6">
 
 #### music production

@@ -22,6 +22,8 @@ The performance offers a new reality in which participants are given the opportu
 
 <img width="1080" alt="Screenshot 2024-07-12 at 12 29 45" src="https://github.com/user-attachments/assets/8ace88b1-2a1c-4d02-8eea-7d93b20cc328">
 
+[![Watch the video](https://github.com/user-attachments/assets/fa803b38-6fcd-4073-842f-15e658bd154e)](https://youtu.be/Y5Wfwh035qk)
+
 Participants enter the performance reality holding their mobile phones or wearing AR enhancement devices.
 
 <img width="1449" alt="Screenshot 2024-07-11 at 21 34 08" src="https://github.com/09090909Hh/Dialogue-of-Self--Relationships/assets/161685338/0e517ae0-223d-458a-9bf8-aadac88c92de">

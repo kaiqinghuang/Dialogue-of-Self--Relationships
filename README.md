@@ -24,7 +24,7 @@ The performance offers a new reality in which participants are given the opportu
 
 ### video
 
-[![Watch the video](https://github.com/user-attachments/assets/fa803b38-6fcd-4073-842f-15e658bd154e)](https://youtu.be/Y5Wfwh035qk)
+[![Watch the video](https://youtu.be/ynVrJ-KAkHc)
 
 Participants enter the performance reality holding their mobile phones or wearing AR enhancement devices.
 

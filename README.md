@@ -24,7 +24,7 @@ The performance offers a new reality in which participants are given the opportu
 
 ### video
 
-[![Video Title](https://www.youtube.com/watch?v=ynVrJ-KAkHc&t=5s/0.jpg)](https://www.youtube.com/watch?v=ynVrJ-KAkHc&t=5s)
+[![Watch the video](https://img.youtube.com/vi/ynVrJ-KAkHc&t=5s/1.jpg)](https://www.youtube.com/watch?v=ynVrJ-KAkHc&t=5s)
 
 ![Watch the video](https://www.youtube.com/watch?v=ynVrJ-KAkHc&t=5s)
 

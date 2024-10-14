@@ -2,7 +2,7 @@
 
 This is a real-time performance project combining AR technology with dance. We aspire to explore the possibilities between AR technology and physical performance. Additionally, we aim for this live performance to immerse the audience, allowing them to participate and present the performance together with the dancers.
 
-## concept
+## Concept
 
 In "Meditations on First Philosophy," Descartes explores the nature of self and existence through the argument of "Cogito, ergo sum" ("I think, therefore I am"). He attempts to determine what is real and knowable, addressing the doubts and affirmations regarding self-existence and identity.
 
@@ -22,7 +22,7 @@ The performance offers a new reality in which participants are given the opportu
 
 <img width="1080" alt="Screenshot 2024-07-12 at 12 29 45" src="https://github.com/user-attachments/assets/8ace88b1-2a1c-4d02-8eea-7d93b20cc328">
 
-### video
+### Video
 
 [![Watch the video](https://img.youtube.com/vi/ynVrJ-KAkHc/0.jpg)](https://www.youtube.com/watch?v=ynVrJ-KAkHc)
 
@@ -42,7 +42,7 @@ In this project, there are three main components: choreography, AR production, a
 
 Additionally, the project is developed based on the HoloKit SDK, utilizing its Stereoscopic Rendering and Hand Tracking capabilities.
 
-### choreography
+### Choreography
 
 Choreographing along three main lines: "emotion," "motivation," and "time."
 
@@ -81,7 +81,7 @@ Based on the animation captured with Depthkit technology, a second capture using
 
 <img width="1080" alt="Screenshot 2024-06-25 at 00 32 16" src="https://github.com/user-attachments/assets/3dff4179-aaee-4f4f-9e8b-1bdee05f11f7">
 
-#### visual effect and functional realization
+#### Visual effect and functional realization
 
 Scene and wireframe
 
@@ -99,11 +99,21 @@ Use the spine bone of the virtual people as the attraction point for the magnet 
 
 <img width="1041" alt="Screenshot 2024-07-12 at 11 38 56" src="https://github.com/user-attachments/assets/2d7382f6-0371-44e0-9c55-b774e4ce20e6">
 
-#### music production
+#### Music production
 
 Create experimental music, enhancing details and improving the synchronization quality between sound and visuals. After wearing augmented reality devices, live coders and participants can create sound effects in real-time using Max based on the movements of the "two performers," becoming participants in this reality.
 
+![7月2日(14)](https://github.com/user-attachments/assets/6cac5846-0485-4de8-973a-23161309e0cc)
+
 <img width="1240" alt="Screenshot 2024-07-12 at 11 51 47" src="https://github.com/user-attachments/assets/dcf5adc9-605d-4bef-a8e7-c465f0ed088a">
+
+## Performance pictures
+
+![7月2日(5)](https://github.com/user-attachments/assets/a7757ec5-7615-4944-ba39-6712d59045e7)
+
+![7月2日(13)](https://github.com/user-attachments/assets/885612e5-bd03-430f-a9ad-353462e6eaa0)
+
+![7月2日(4)](https://github.com/user-attachments/assets/61a06789-5d39-4875-bd68-50f4535596ab)
 
 ## Requirements
 
